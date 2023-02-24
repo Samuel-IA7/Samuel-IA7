@@ -1,5 +1,5 @@
-<h3 align="center">Samuel Alves: Desenvolvedor Front-End</h3>
-<h3 align="center">"Futuro FullStack!"</h3>
+<h3 align="center">Samuel Alves: Developer Front-End</h3>
+<h3 align="center">"Future FullStack!"</h3>
  
 
 <!--
